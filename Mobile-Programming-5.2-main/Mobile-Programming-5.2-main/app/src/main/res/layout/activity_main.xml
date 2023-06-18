@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Tambah Kartu"
+        android:backgroundTint="#389F26"/>
+
+    <Button
+        android:id="@+id/resetButton"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Hapus Kartu"
+        android:backgroundTint="#9F2626"/>
+
+    <LinearLayout
+        android:id="@+id/cardContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="16dp">
+
+    </LinearLayout>
+
+</LinearLayout>
