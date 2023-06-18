@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.example.coba.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            style="@style/TeamText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="208dp"
+            android:layout_marginEnd="132dp"
+            android:text="Counter"
+            android:gravity="center"/>
+
+        <Button
+            android:id="@+id/reset"
+            android:layout_width="107dp"
+            android:layout_height="48dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="450dp"
+            android:onClick="reset"
+            android:text="reset"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/decreaseTeam1"
+            android:layout_width="70dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="450dp"
+            android:onClick="decreaseScore"
+            android:text="-"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/score_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/initial_count"
+            style="@style/ScoreText" />
+
+        <Button
+            android:id="@+id/increaseTeam1"
+            android:layout_width="70dp"
+            android:layout_height="48dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="450dp"
+            android:onClick="increaseScore"
+            android:text="+"
+            android:textSize="20dp" />
+
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>
