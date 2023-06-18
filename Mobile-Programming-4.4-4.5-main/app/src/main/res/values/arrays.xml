@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="words">
+        <item>angel</item>
+        <item>access</item>
+        <item>arrange</item>
+        <item>absorption</item>
+        <item>ambition</item>
+        <item>bush</item>
+        <item>blackmail</item>
+        <item>basin</item>
+        <item>bomber</item>
+        <item>blade</item>
+        <item>chord</item>
+        <item>cellar</item>
+        <item>contemporary</item>
+        <item>corn</item>
+        <item>compact</item>
+        <item>ditch</item>
+        <item>deadly</item>
+        <item>debut</item>
+        <item>draft</item>
+        <item>distance</item>
+        <item>engineer</item>
+        <item>exotic</item>
+        <item>extension</item>
+        <item>employee</item>
+        <item>exempt</item>
+        <item>frown</item>
+        <item>fisherman</item>
+        <item>foundation</item>
+        <item>fascinate</item>
+        <item>friend</item>
+        <item>grounds</item>
+        <item>graze</item>
+        <item>gregarious</item>
+        <item>guideline</item>
+        <item>genetic</item>
+        <item>harmful</item>
+        <item>hostile</item>
+        <item>hobby</item>
+        <item>harvest</item>
+        <item>hesitate</item>
+        <item>incredible</item>
+        <item>introduce</item>
+        <item>infect</item>
+        <item>implicit</item>
+        <item>inquiry</item>
+        <item>journal</item>
+        <item>jealous</item>
+        <item>jail</item>
+        <item>just</item>
+        <item>judicial</item>
+        <item>know</item>
+        <item>kettle</item>
+        <item>kinship</item>
+        <item>knit</item>
+        <item>knot</item>
+        <item>lock</item>
+        <item>lead</item>
+        <item>lodge</item>
+        <item>literature</item>
+        <item>large</item>
+        <item>manufacturer</item>
+        <item>multiply</item>
+        <item>migration</item>
+        <item>multimedia</item>
+        <item>money</item>
+        <item>navy</item>
+        <item>nonsense</item>
+        <item>network</item>
+        <item>nose</item>
+        <item>native</item>
+        <item>official</item>
+        <item>oh</item>
+        <item>opposition</item>
+        <item>orientation</item>
+        <item>operation</item>
+        <item>please</item>
+        <item>player</item>
+        <item>prosecute</item>
+        <item>penny</item>
+        <item>parallel</item>
+        <item>qualified</item>
+        <item>quaint</item>
+        <item>quota</item>
+        <item>question</item>
+        <item>quantity</item>
+        <item>rifle</item>
+        <item>round</item>
+        <item>rugby</item>
+        <item>robot</item>
+        <item>reinforce</item>
+        <item>Sunday</item>
+        <item>surprise</item>
+        <item>strike</item>
+        <item>silk</item>
+        <item>so</item>
+        <item>tooth</item>
+        <item>tourist</item>
+        <item>teenager</item>
+        <item>tract</item>
+        <item>tent</item>
+        <item>undermine</item>
+        <item>understand</item>
+        <item>use</item>
+        <item>upset</item>
+        <item>unanimous</item>
+        <item>vat</item>
+        <item>visual</item>
+        <item>view</item>
+        <item>vague</item>
+        <item>virgin</item>
+        <item>warning</item>
+        <item>wall</item>
+        <item>worth</item>
+        <item>wrong</item>
+        <item>worm</item>
+        <item>X-ray</item>
+        <item>youth</item>
+        <item>yard</item>
+        <item>young</item>
+        <item>year</item>
+        <item>yearn</item>
+        <item>zero</item>
+        <item>zone</item>
+    </string-array>
+</resources>
