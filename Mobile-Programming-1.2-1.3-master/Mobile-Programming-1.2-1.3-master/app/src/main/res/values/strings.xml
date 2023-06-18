@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">kodingppb</string>
+    <string name="article_title">Ada Cinta</string>
+    <string name="article_subtitle">Pertumbuhan cintaku kepadamu</string>
+    <string name="article_text">
+        <b>Asgard, 32 April 2020</b>
+        \n\n
+        "Jangan katakan cinta menambah beban rasa."
+        \n\n
+        Dewa 19, <i>Kangen</i>
+    </string>
+</resources>
